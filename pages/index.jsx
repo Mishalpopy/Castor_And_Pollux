@@ -501,7 +501,7 @@ const Index = () => {
                       <h2> Kick Start Your Awesome Project Now!</h2>
                       <img alt="line" src="assets/img/headingline.png" />
                       <p>
-                      Let's create something great together. Contact Castor and Pollux for your Digital needs
+                      Let's create something great together. Contact Castor and Pollux for your Digital   needs
                       </p>
                     </div>
                   </div>

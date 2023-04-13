@@ -1,1 +1,16 @@
-{}
+{
+  "portfolio-grid.jsx -> @/src/components/PortfolioGridIsotope": {
+    "id": 3625,
+    "files": [
+      "static/chunks/391.c6eeca109a092ca1.js",
+      "static/chunks/625.dc72121bab9eda8c.js"
+    ]
+  },
+  "portfolio-masonry.jsx -> @/src/components/PortfolioMasonryIsotope": {
+    "id": 3445,
+    "files": [
+      "static/chunks/391.c6eeca109a092ca1.js",
+      "static/chunks/445.c0d792000de5297f.js"
+    ]
+  }
+}
